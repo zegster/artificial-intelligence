@@ -1,4 +1,4 @@
-# Data Analysis & Preparation
+# Model Selection & Evaluation
 1. Split the data into training, and validation sets
 2. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
